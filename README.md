@@ -1,2 +1,2 @@
-# module-8-challenge
+# module-18-challenge
 Repository for the Tableau challenge
